@@ -1,0 +1,19 @@
+# Core (needed for everything)
+numpy
+scipy
+PyYAML
+rapidfuzz
+# System: ffmpeg must be installed and on PATH (apt install ffmpeg)
+
+# Speech detection + transcription
+torch
+silero-vad
+faster-whisper
+
+# Vocal isolation (separates the voice from music/noise)
+demucs
+torchaudio
+
+# Optional
+spacy                  # then: python -m spacy download en_core_web_sm
+anthropic              # Claude-assisted company-name extraction (use_llm: true)

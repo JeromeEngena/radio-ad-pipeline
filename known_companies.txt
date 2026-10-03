@@ -1,0 +1,9 @@
+# One company per line. Optional aliases after |  (add as many as you like)
+MTN Uganda|MTN|Mobile Telephone Networks
+Airtel Uganda|Airtel
+Stanbic Bank Uganda|Stanbic Bank|Stanbic
+Centenary Bank
+Equity Bank Uganda|Equity Bank
+Pearl of Africa Foods
+Roofings Group|Roofings
+Coca-Cola Uganda|Coca Cola
