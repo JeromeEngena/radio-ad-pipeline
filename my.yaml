@@ -1,0 +1,27 @@
+# Radio advert intake: configuration. Anything omitted falls back to defaults.
+paths:
+  audio_root: /data/radio_recordings      # one sub-folder per station, or files named Station_YYYYMMDD_HHMMSS.mp3
+  work_dir: ./data                        # database + CSV outputs are written here
+  known_companies: ./known_companies.txt
+
+processing:
+  workers: 4                              # parallel processes (1 per GPU is a good start)
+  batch_size: 50                          # smaller = repeat airings in the same batch are caught sooner
+  min_speech_seconds: 1.0                 # less speech than this = "blank"
+  vad_backend: silero                     # silero (accurate) | energy (crude fallback)
+  separation: auto                        # always | auto | never  (isolate voice from music)
+  device: auto                            # auto | cpu | cuda
+
+asr:
+  backend: faster-whisper
+  model: large-v3                         # use "small" or "medium" on CPU-only machines
+  language: null                          # null = detect per recording
+
+fingerprint:
+  enabled: true                           # reuse results for repeat airings of the same ad
+
+companies:
+  use_spacy: true
+  use_llm: false                          # set true + ANTHROPIC_API_KEY for Claude-assisted extraction
+
+watch_interval_seconds: 30
