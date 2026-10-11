@@ -1,0 +1,16 @@
+paths:
+  audio_root: ./demo_audio
+  work_dir: ./demo_data
+
+processing:
+  workers: 1
+  vad_backend: energy
+  separation: never
+
+asr:
+  backend: sidecar
+
+companies:
+  use_spacy: false
+
+stable_after_seconds: 0

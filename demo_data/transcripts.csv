@@ -1,0 +1,36 @@
+﻿recording_id,file_path,station,recorded_at,content,blank_reason,duration_s,speech_seconds,language,language_prob,reused_from_id,transcript,companies,processed_at
+12,./demo_audio/Radio_Pacis/Radio-Pacis_20260927_212934.wav,Radio-Pacis,2026-09-27T21:29:34,blank,no_speech,10.16,0.0,,,,,,2026-10-04T16:46:33
+9,./demo_audio/Mega_FM/Mega-FM_20260928_193226.wav,Mega-FM,2026-09-28T19:32:26,verbal,,9.32,5.01,en,1.0,,Sponsored by Kampala Dairies Ltd. Fresh milk every morning.,Kampala Dairies Ltd,2026-10-04T16:46:34
+7,./demo_audio/CBS_FM/CBS-FM_20260929_065704.wav,CBS-FM,2026-09-29T06:57:04,verbal,,11.96,6.63,en,1.0,,Visit Mukwano Industries Limited for the best soap in town.,Visit Mukwano Industries Limited,2026-10-04T16:46:35
+13,./demo_audio/Radio_Pacis/Radio-Pacis_20260929_101131.wav,Radio-Pacis,2026-09-29T10:11:31,verbal,,9.11,4.77,en,1.0,,"Equity Bank Uganda, we are growing with you.",Equity Bank Uganda,2026-10-04T16:46:35
+8,./demo_audio/Dembe_FM/Dembe-FM_20260929_133051.wav,Dembe-FM,2026-09-29T13:30:51,blank,no_speech,9.0,0.0,,,,,,2026-10-04T16:46:36
+3,./demo_audio/Capital_FM/Capital-FM_20260930_040547.wav,Capital-FM,2026-09-30T04:05:47,verbal,,9.11,4.77,en,1.0,13,"Equity Bank Uganda, we are growing with you.",Equity Bank Uganda,2026-10-04T16:46:36
+17,./demo_audio/Radio_West/Radio-West_20260930_050620.wav,Radio-West,2026-09-30T05:06:20,verbal,,12.07,6.6,en,1.0,,"Centenary Bank, the bank that cares. Apply for a school fees loan now.",Centenary Bank,2026-10-04T16:46:37
+4,./demo_audio/Capital_FM/Capital-FM_20260930_225217.wav,Capital-FM,2026-09-30T22:52:17,blank,no_speech,19.82,0.0,,,,,,2026-10-04T16:46:37
+19,./demo_audio/Voice_of_Teso/Voice-of-Teso_20261001_092757.wav,Voice-of-Teso,2026-10-01T09:27:57,verbal,,11.57,6.6,en,1.0,,Nile Breweries Ltd reminds you to drink responsibly.,Nile Breweries Ltd,2026-10-04T16:46:38
+15,./demo_audio/Radio_Simba/Radio-Simba_20261001_100438.wav,Radio-Simba,2026-10-01T10:04:38,verbal,,12.7,7.2,en,1.0,,"Roofings Group, quality iron sheets for every home. Visit our showroom in Namanve.",Roofings Group,2026-10-04T16:46:38
+5,./demo_audio/Capital_FM/Capital-FM_20261002_115921.wav,Capital-FM,2026-10-02T11:59:21,blank,silent,8.0,0.0,,,,,,2026-10-04T16:46:39
+10,./demo_audio/Mega_FM/Mega-FM_20261002_145646.wav,Mega-FM,2026-10-02T14:56:46,verbal,,9.11,4.77,en,1.0,13,"Equity Bank Uganda, we are growing with you.",Equity Bank Uganda,2026-10-04T16:46:39
+16,./demo_audio/Radio_Simba/Radio-Simba_20261002_203043.wav,Radio-Simba,2026-10-02T20:30:43,verbal,,11.57,6.6,en,1.0,19,Nile Breweries Ltd reminds you to drink responsibly.,Nile Breweries Ltd,2026-10-04T16:46:39
+18,./demo_audio/Radio_West/Radio-West_20261003_055032.wav,Radio-West,2026-10-03T05:50:32,blank,silent,8.0,0.0,,,,,,2026-10-04T16:46:40
+6,./demo_audio/Capital_FM/Capital-FM_20261003_113221.wav,Capital-FM,2026-10-03T11:32:21,verbal,,12.7,7.2,en,1.0,15,"Roofings Group, quality iron sheets for every home. Visit our showroom in Namanve.",Roofings Group,2026-10-04T16:46:40
+11,./demo_audio/Radio_One/Radio-One_20261003_132603.wav,Radio-One,2026-10-03T13:26:03,verbal,,11.96,6.63,en,1.0,7,Visit Mukwano Industries Limited for the best soap in town.,Visit Mukwano Industries Limited,2026-10-04T16:46:41
+1,./demo_audio/Bukedde_FM/Bukedde-FM_20261003_134547.wav,Bukedde-FM,2026-10-03T13:45:47,verbal,,12.7,7.2,en,1.0,15,"Roofings Group, quality iron sheets for every home. Visit our showroom in Namanve.",Roofings Group,2026-10-04T16:46:41
+14,./demo_audio/Radio_Pacis/Radio-Pacis_20261003_145423.wav,Radio-Pacis,2026-10-03T14:54:23,verbal,,10.77,5.82,en,1.0,,Brought to you by Stanbic Bank. Open an account today and save for tomorrow.,Stanbic Bank Uganda,2026-10-04T16:46:42
+20,./demo_audio/Voice_of_Teso/Voice-of-Teso_20261003_151327.wav,Voice-of-Teso,2026-10-03T15:13:27,verbal,,11.09,5.94,en,1.0,,"Drink Coca Cola, taste the feeling.",Coca-Cola Uganda,2026-10-04T16:46:43
+2,./demo_audio/Bukedde_FM/Bukedde-FM_20261003_201432.wav,Bukedde-FM,2026-10-03T20:14:32,verbal,,11.09,5.94,en,1.0,20,"Drink Coca Cola, taste the feeling.",Coca-Cola Uganda,2026-10-04T16:46:43
+30,./demo_audio/Radio_Simba/Radio-Simba_20261002_070203.wav,Radio-Simba,2026-10-02T07:02:03,blank,no_speech,16.47,0.0,,,,,,2026-10-04T17:35:48
+23,./demo_audio/CBS_FM/CBS-FM_20261002_110619.wav,CBS-FM,2026-10-02T11:06:19,verbal,,12.9,7.26,en,1.0,,MTN Uganda MoMo makes sending money easy. Dial star one five six hash.,MTN Uganda,2026-10-04T17:35:49
+26,./demo_audio/Mega_FM/Mega-FM_20261002_114551.wav,Mega-FM,2026-10-02T11:45:51,verbal,,13.58,7.41,en,1.0,,Top up with Airtel Ugandaa and get double data this weekend.,Airtel Uganda,2026-10-04T17:35:50
+27,./demo_audio/Mega_FM/Mega-FM_20261002_195144.wav,Mega-FM,2026-10-02T19:51:44,verbal,,13.32,7.29,en,1.0,,"Centenary Bank, the bank that cares. Apply for a school fees loan now.",Centenary Bank,2026-10-04T17:35:55
+28,./demo_audio/Mega_FM/Mega-FM_20261002_205609.wav,Mega-FM,2026-10-02T20:56:09,verbal,,11.86,6.45,en,1.0,,Brought to you by Stanbic Bank. Open an account today and save for tomorrow.,Stanbic Bank Uganda,2026-10-04T17:36:00
+21,./demo_audio/Beat_FM/Beat-FM_20261003_021450.wav,Beat-FM,2026-10-03T02:14:50,verbal,,12.9,7.26,en,1.0,23,MTN Uganda MoMo makes sending money easy. Dial star one five six hash.,MTN Uganda,2026-10-04T17:36:01
+22,./demo_audio/Bukedde_FM/Bukedde-FM_20261003_081219.wav,Bukedde-FM,2026-10-03T08:12:19,verbal,,13.32,7.29,en,1.0,27,"Centenary Bank, the bank that cares. Apply for a school fees loan now.",Centenary Bank,2026-10-04T17:36:01
+29,./demo_audio/Radio_One/Radio-One_20261003_103313.wav,Radio-One,2026-10-03T10:33:13,verbal,,11.26,6.18,en,1.0,,Nile Breweries Ltd reminds you to drink responsibly.,Nile Breweries Ltd,2026-10-04T17:36:03
+24,./demo_audio/Dembe_FM/Dembe-FM_20261004_000115.wav,Dembe-FM,2026-10-04T00:01:15,verbal,,11.86,6.45,en,1.0,28,Brought to you by Stanbic Bank. Open an account today and save for tomorrow.,Stanbic Bank Uganda,2026-10-04T17:36:08
+25,./demo_audio/Dembe_FM/Dembe-FM_20261004_001152.wav,Dembe-FM,2026-10-04T00:11:52,verbal,,13.22,7.29,en,1.0,,"Drink Coca Cola, taste the feeling.",Coca-Cola Uganda,2026-10-04T17:36:09
+35,./demo_audio/Voice_of_Teso/Voice-of-Teso_20261004_173300.wav,Voice-of-Teso,2026-10-04T17:33:00,verbal,,9.76,5.25,en,1.0,,"Equity Bank Uganda, we are growing with you.",Equity Bank Uganda,2026-10-04T18:00:08
+31,./demo_audio/Capital_FM/Capital-FM_20261004_173800.wav,Capital-FM,2026-10-04T17:38:00,verbal,,9.62,5.22,en,1.0,,"Drink Coca Cola, taste the feeling.",Coca-Cola Uganda,2026-10-04T18:00:09
+33,./demo_audio/Dembe_FM/Dembe-FM_20261004_174300.wav,Dembe-FM,2026-10-04T17:43:00,verbal,,10.22,5.4,en,1.0,,MTN Uganda MoMo makes sending money easy. Dial star one five six hash.,MTN Uganda,2026-10-04T18:00:12
+32,./demo_audio/CBS_FM/CBS-FM_20261004_174800.wav,CBS-FM,2026-10-04T17:48:00,blank,no_speech,18.04,0.0,,,,,,2026-10-04T18:00:15
+34,./demo_audio/Sanyu_FM/Sanyu-FM_20261004_175300.wav,Sanyu-FM,2026-10-04T17:53:00,verbal,,13.04,7.29,en,1.0,,Sponsored by Kampala Dairies Ltd. Fresh milk every morning.,Kampala Dairies Ltd,2026-10-04T18:00:16
